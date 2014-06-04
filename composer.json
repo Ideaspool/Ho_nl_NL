@@ -1,13 +1,13 @@
 {
-    "name": "ho-nl/ho_nl_nl",
+    "name": "ideaspool/magento-custom-locale-snippet",
     "type": "magento-module",
     "license":"OSL-3.0",
-    "description":"Nederlandse vertalingen voor Magento 1.7.0.2",
-    "homepage": "http://www.h-o.nl/blog/nederlandse-vertalingen-magento-17-inclusief-e-mailvertalingen/",
+    "description":"Extra Locale snippet for Magento 1.8.1.0",
+    "homepage": "http://ideaspool.nl",
     "authors":[
         {
-            "name":"Paul Hachmang",
-            "email":"paul@h-o.nl"
+            "name":"Kristaps Horns",
+            "email":"k.horns@ideaspool.nl"
         }
     ],
     "require": {
